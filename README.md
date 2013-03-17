@@ -2,7 +2,7 @@
 
 ## What for?
 
-Since version 1.9 jQuery UI [has been removed rotate method](http://jqueryui.com/upgrade-guide/1.9/#removed-rotate-method) and suggested for users to use [rotate extension](https://github.com/cmcculloh/jQuery-UI-Tabs-Rotate). But most users/developers wants to make pause on hover for their rotating tabs. This jQuery UI extension makes possible to pause on hover with some options, look **Usage**.
+Since version 1.9 of jQuery UI [has been removed rotate method](http://jqueryui.com/upgrade-guide/1.9/#removed-rotate-method) and suggested for users to use [rotate extension](https://github.com/cmcculloh/jQuery-UI-Tabs-Rotate). But most users/developers wants to make pause on hover for their rotating tabs. This jQuery UI extension makes possible to pause on hover with some options, look **Usage**.
 
 ### Required ###
 
